@@ -1,0 +1,38 @@
+body{
+background:linear-gradient(to right,pink,red,pink,transparent,pink,red,pink);
+background-size: cover;
+}
+
+.position{
+       
+        margin-left: 55px;
+	margin-right: 20px;
+	max-height: 300px;
+	padding: 0%;
+        position:
+}
+
+.picture1{
+        float: right;
+        margin-left: 0px;
+	margin-right: 195px;
+}
+
+.picture2{
+        float: left;
+        margin-left: 195px;
+	margin-right: 0px;
+}
+
+.picture3{
+        float: left;
+        margin-left: 140px;
+	margin-right: 0px;
+}
+
+.TEXT{
+font-family: Century gothic;
+ font-weight: bold;
+ font-size: 50px;
+ color:darkred;
+}
